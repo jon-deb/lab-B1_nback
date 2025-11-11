@@ -93,6 +93,7 @@ class GameVM(
     }
 
     override fun checkMatch() {
+
         /**
          * Todo: This function should check if there is a match when the user presses a match button
          * Make sure the user can only register a match once for each event.
